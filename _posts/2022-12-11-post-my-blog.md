@@ -1,5 +1,5 @@
 ---
-title: "My first blog"
+title: "Handling digital I/O in PLC (Codesys)"
 date: 2022-12-11T15:34:30-04:00
 categories:
   - blog
