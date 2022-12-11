@@ -1,12 +1,3 @@
----
-title: "Handling digital I/O in PLC (Codesys)"
-date: 2022-12-11T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
----
 
 Handling digital I/O in PLC (Codesys)
 
