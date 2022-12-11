@@ -1,5 +1,5 @@
 ---
-title: "Hello Leonidas!"
+title: "Handling digital I/O in PLC (Codesys)"
 ---
 
 Handling digital I/O in PLC (Codesys)
