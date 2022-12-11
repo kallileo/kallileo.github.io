@@ -1,5 +1,7 @@
 ---
 title: "Handling digital I/O in PLC (Codesys)"
+categories:
+  - blog
 ---
 
 Handling digital I/O in PLC (Codesys)
