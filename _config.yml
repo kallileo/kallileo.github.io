@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Leon Kallis"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I’m just an automation and controls engineer interested in studying and applying the latest technology trends."
   links:
