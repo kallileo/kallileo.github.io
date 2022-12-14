@@ -1,8 +1,3 @@
----
-title: "Analog signals filtering in PLC (Codesys)"
-categories:
-  - blog
----
 
 In this post I show how to create an analog filter using Structured Text, in order to filter out high frequency noise that could be affecting the raw input signal. 
 
