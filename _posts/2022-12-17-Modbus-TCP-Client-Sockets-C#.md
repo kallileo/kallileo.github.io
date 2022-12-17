@@ -11,5 +11,5 @@ Firstly the connection through a network socket is established, then a Modbus re
 ModRSsim2 can be used to simulate the Modbus TCP Server device.
 
 
-<a href="https://github.com/kallileo/ModbusTCP-Client-Example">Modbus TCP Client example by using sockets in C# - GitHub</a>
+<a href="https://github.com/kallileo/Modbus-TCP-Client-Example">Modbus TCP Client example by using sockets in C# - GitHub</a>
 
