@@ -1,4 +1,9 @@
-ModbusTCP Client example by using sockets in C#
+---
+title: "ModbusTCP Client example by using sockets in C#"
+categories:
+  - blog
+---
+
 Very simple ModbusTCP Client example coded in C# that uses network .NET sockets library (System.Net.Sockets) to read holding registers from a ModbusTCP Server device. 
 No EXTERNAL Modbus libraries like EasymodbusTCP are used.
 
