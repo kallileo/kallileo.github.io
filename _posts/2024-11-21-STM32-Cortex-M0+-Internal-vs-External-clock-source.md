@@ -5,5 +5,5 @@ categories:
   - Blog
 tags:
   - stm32
-  - cortexm0 
+  - cortexm0+ 
 ---
